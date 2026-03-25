@@ -25,3 +25,4 @@ Due to time constraints during the coding challenge:
 * UI could be improved using better component libraries and styling
 * More animations could be added for better user feedback (button clicks, navigation, etc.)
 * Additional test cases could be added, especially for hooks and utility functions
+* Better separation of components, pages into their respective modules
