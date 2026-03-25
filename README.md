@@ -6,6 +6,10 @@ A simple React Native (Expo) app to view and manage booked doctor appointments.
 
 From the root directory:
 
+## Build
+
+`npm install`
+
 ## 🚀 Run the app
 
 `npx expo start -c`
